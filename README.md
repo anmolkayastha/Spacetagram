@@ -1,4 +1,4 @@
-# anmolkayastha.github.io
+# Spacetagram
 
 A webpage to pull image from NASA's API, Astronomy Picture of the Day
 User can like or unlike the image
